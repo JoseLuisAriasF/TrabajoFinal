@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabajoFinalI_WindowsForms_AriasFlores", "TrabajoFinalI_WindowsForms_AriasFlores\TrabajoFinalI_WindowsForms_AriasFlores.csproj", "{D23ECF4B-2452-4A76-828C-3D8D62EAF585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23ECF4B-2452-4A76-828C-3D8D62EAF585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23ECF4B-2452-4A76-828C-3D8D62EAF585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23ECF4B-2452-4A76-828C-3D8D62EAF585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23ECF4B-2452-4A76-828C-3D8D62EAF585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C72C383-9F75-4670-9346-388A5DC505DE}
+	EndGlobalSection
+EndGlobal
