@@ -8,3 +8,4 @@ C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\TrabajoFinalI_WindowsForms_Ari
 C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\TrabajoFinalI_WindowsForms_AriasFlores\TrabajoFinalI_WindowsForms_AriasFlores\obj\Debug\TrabajoFinalI_WindowsForms_AriasFlores.exe
 C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\TrabajoFinalI_WindowsForms_AriasFlores\TrabajoFinalI_WindowsForms_AriasFlores\obj\Debug\TrabajoFinalI_WindowsForms_AriasFlores.pdb
 C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\TrabajoFinalI_WindowsForms_AriasFlores\TrabajoFinalI_WindowsForms_AriasFlores\obj\Debug\TrabajoFinalI_WindowsForms_AriasFlores.Ejercicio1.resources
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\TrabajoFinalI_WindowsForms_AriasFlores\TrabajoFinalI_WindowsForms_AriasFlores\obj\Debug\TrabajoFinalI_WindowsForms_AriasFlores.Ejercicio2.resources
